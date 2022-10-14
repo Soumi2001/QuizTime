@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_contact_phone_24.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_contact_phone_24_focused.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_email_24_focused.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_lock_24_focused.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/ic_baseline_person_24_focused.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable-v24/text_style.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/background_gradient.xml" value="0.1455" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/btn.xml" value="0.2105" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/btngradient.xml" value="0.1445" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/buttonlevel_style.xml" value="0.1295" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/custom_person.xml" value="0.1" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/emptybackground.xml" value="0.1445" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1885" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/ic_baseline_person_24_focused.xml" value="0.158" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/menuop_style.xml" value="0.1295" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/option.xml" value="0.1445" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/option_style.xml" value="0.14" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/drawable/textbox_style.xml" value="0.2115" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_cplus_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_cquiz.xml" value="0.18" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_entry_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_forget_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_home_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_java_quiz.xml" value="0.22" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_log_in.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_python_quiz.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_question_all_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_question_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_regis.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_registration.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_scoreboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_user_log_in.xml" value="0.33" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/activity_won.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/gg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/layout/timeout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Soumitri/AndroidStudioProjects/QuizTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

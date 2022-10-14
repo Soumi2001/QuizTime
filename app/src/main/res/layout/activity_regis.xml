@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisActivity"
+    android:background="@drawable/background_gradient">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#A3000000"
+        android:paddingTop="@dimen/_10sdp">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="@dimen/_25sdp">
+
+                <VideoView
+                    android:id="@+id/regVideo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_200sdp"/>
+                <TextView
+                    android:id="@+id/headReg"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="30dp"
+                    android:fontFamily="@font/acme"
+                    android:gravity="center"
+                    android:text="Quiz Time"
+                    android:textColor="#FFFFFF"
+                    android:textSize="48sp"/>
+                <EditText
+                    android:id="@+id/regName"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/text_style"
+                    android:drawableStart="@drawable/custom_person"
+                    android:drawablePadding="10dp"
+                    android:ems="10"
+                    android:fontFamily="@font/acme"
+                    android:hint="Name"
+                    android:inputType="textPersonName"
+                    android:paddingLeft="5dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="italic"  />
+                <EditText
+                    android:id="@+id/regPhone"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/text_style"
+                    android:drawableStart="@drawable/custom_phone"
+                    android:drawablePadding="10dp"
+                    android:ems="10"
+                    android:fontFamily="@font/acme"
+                    android:hint="Contact No."
+                    android:inputType="phone"
+                    android:minHeight="48dp"
+                    android:paddingLeft="5dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+
+                <EditText
+                    android:id="@+id/regEmail"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/text_style"
+                    android:drawableStart="@drawable/custom_email"
+                    android:drawablePadding="10dp"
+                    android:ems="10"
+                    android:fontFamily="@font/acme"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"
+                    android:paddingLeft="5dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+
+                <EditText
+                    android:id="@+id/regPassword"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/text_style"
+                    android:drawableStart="@drawable/custom_lock"
+                    android:drawablePadding="10dp"
+                    android:ems="10"
+                    android:fontFamily="@font/acme"
+                    android:hint="Password"
+                    android:inputType="textPassword"
+                    android:paddingLeft="5dp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/register"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="75dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="75dp"
+                    android:background="@drawable/btngradient"
+                    android:text="Register"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/log"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="30dp"
+                    android:fontFamily="@font/acme"
+                    android:gravity="center"
+                    android:text="Already a member? LogIn"
+                    android:textColor="#FFFFFF"
+                    android:textSize="@dimen/_10sdp"
+                    android:paddingTop="@dimen/_5sdp"/>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>
